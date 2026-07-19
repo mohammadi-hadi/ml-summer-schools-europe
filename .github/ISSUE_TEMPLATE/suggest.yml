@@ -1,0 +1,32 @@
+name: Suggest a school
+description: Propose a new school for the list
+title: "[school] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "School name"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Official page, loads without login.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Name, host/location, focus, usual month (if stable), and a link that loads.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: See CONTRIBUTING.md for the inclusion bar.
+    validations:
+      required: true
