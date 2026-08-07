@@ -68,6 +68,19 @@ For a global, deadline-tracking list, see [awesome-mlss](https://github.com/sshk
 
 [Hadi Mohammadi](https://mohammadi.cv) — PhD in Explainable NLP (Utrecht University). Corrections welcome via issues.
 
+## Citation
+
+If this guide is useful in your work, please cite it (see [CITATION.cff](CITATION.cff)):
+
+```bibtex
+@misc{mohammadi_ml_summer_schools_europe,
+  author = {Mohammadi, Hadi},
+  title  = {Machine Learning Summer Schools in Europe},
+  year   = {2026},
+  url    = {https://github.com/mohammadi-hadi/ml-summer-schools-europe}
+}
+```
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
