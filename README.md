@@ -1,6 +1,7 @@
 # Machine Learning Summer Schools in Europe
 
 [![Links](https://github.com/mohammadi-hadi/ml-summer-schools-europe/actions/workflows/links.yml/badge.svg)](https://github.com/mohammadi-hadi/ml-summer-schools-europe/actions/workflows/links.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A practical guide to ML/AI summer schools in Europe: which ones exist, how to get in, how to fund it, and how to get real value out of the week. Written by someone who has sat in those lecture halls — I attended the Explainable AI Summer School (TU Delft, 2022, on a scholarship), the Oxford Machine Learning Summer School (2023), the Generative Modeling Summer School (Eindhoven, 2024), and a LERU doctoral summer school (2025).
 
