@@ -10,3 +10,5 @@ authors:
 license: MIT
 repository-code: "https://github.com/mohammadi-hadi/ml-summer-schools-europe"
 abstract: "Practical guide to machine learning summer schools in Europe: the schools, deadlines, funding, and how to make the week count."
+version: 1.1.0
+date-released: "2026-08-07"
