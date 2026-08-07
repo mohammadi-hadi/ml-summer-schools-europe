@@ -1,6 +1,7 @@
 # Machine Learning Summer Schools in Europe
 
 [![Links](https://github.com/mohammadi-hadi/ml-summer-schools-europe/actions/workflows/links.yml/badge.svg)](https://github.com/mohammadi-hadi/ml-summer-schools-europe/actions/workflows/links.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21837420.svg)](https://doi.org/10.5281/zenodo.21837420)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A practical guide to ML/AI summer schools in Europe: which ones exist, how to get in, how to fund it, and how to get real value out of the week. Written by someone who has sat in those lecture halls — I attended the Explainable AI Summer School (TU Delft, 2022, on a scholarship), the Oxford Machine Learning Summer School (2023), the Generative Modeling Summer School (Eindhoven, 2024), and a LERU doctoral summer school (2025).
@@ -74,10 +75,12 @@ If this guide is useful in your work, please cite it (see [CITATION.cff](CITATIO
 
 ```bibtex
 @misc{mohammadi_ml_summer_schools_europe,
-  author = {Mohammadi, Hadi},
-  title  = {Machine Learning Summer Schools in Europe},
-  year   = {2026},
-  url    = {https://github.com/mohammadi-hadi/ml-summer-schools-europe}
+  author    = {Mohammadi, Hadi},
+  title     = {Machine Learning Summer Schools in Europe},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21837420},
+  url       = {https://github.com/mohammadi-hadi/ml-summer-schools-europe}
 }
 ```
 
