@@ -69,7 +69,7 @@ Selection committees read hundreds of near-identical "I am passionate about AI" 
 
 Know a European school that belongs here, or spotted a moved link? Open a pull request — one school per PR, with a working link and the usual month if it is stable. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-For a global, deadline-tracking list, see [awesome-mlss](https://github.com/sshkhr/awesome-mlss) — this guide is deliberately Europe-focused and practice-focused rather than exhaustive.
+For a global, deadline-tracking list, see [awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) — this guide is deliberately Europe-focused and practice-focused rather than exhaustive.
 
 ## Maintainer
 
